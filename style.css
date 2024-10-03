@@ -3,6 +3,9 @@ body {
   }
 
 figure {
+}
+
+figure .img {
   height: 100px;
 }
 
