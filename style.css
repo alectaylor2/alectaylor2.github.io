@@ -1,5 +1,4 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
 
@@ -8,21 +7,10 @@ table {
   margin-right: auto;
 }
 
-.nav_link {
+nav td {
   width: 120px;
 }
 
 .img_thumbnail {
   width: 240px;
-}
-
-.photos_aside {
-  position: fixed;
-  width: 240px;
-}
-
-.photos_main {
-  position: absolute;
-  left: 240px;
-  width: 600px;
 }
